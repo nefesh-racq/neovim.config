@@ -1,0 +1,6 @@
+config neovim
+
+copiar a la ruta
+
+~/.config/nvim/
+
